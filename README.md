@@ -16,7 +16,7 @@ I love building scalable and user-friendly web applications, as well as explorin
 - **HTML & CSS**: My proficiency in HTML and CSS allows me to create visually appealing and responsive designs, ensuring an optimal user experience across devices.
 - **Full-Stack Development**: With a solid understanding of both frontend and backend technologies, I can architect and build end-to-end web solutions that fulfill business requirements.
 - **Java**: I have hands-on experience in Java, allowing me to develop reliable and efficient applications using object-oriented principles.
-- **Python**: I am proficient in Python and have leveraged its versatility to build a wide range of applications, from data analysis to web scraping.
+- **Python**: I am proficient in Python and have leveraged its versatility to build a wide range of applications, including data analysis and various other tasks.
 - **C & C++**: With a strong foundation in C and C++, I have developed low-level applications and optimized algorithms for enhanced performance.
 
 My diverse expertise in React, TypeScript, HTML, CSS, Java, Python, C, and C++ enables me to tackle a variety of projects and deliver high-quality solutions. I am constantly expanding my skills to stay at the forefront of technological advancements in the software development industry.
