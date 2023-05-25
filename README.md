@@ -2,10 +2,14 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=ronensiv&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
+[![wakatime](https://wakatime.com/badge/user/d2b12c68-6219-49e7-bf77-ca120ea251ed/project/6f3f04f1-8299-4854-b246-a2994651281a.svg)](https://wakatime.com/badge/user/d2b12c68-6219-49e7-bf77-ca120ea251ed/project/6f3f04f1-8299-4854-b246-a2994651281a)
+
+
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There👋, I am
-                <b><a target="_blank" href="https://ronensivak.com">Ronen Sivak</a></b>
+                <b><a target="_blank" href="https://ronensivak.com">Ronen Sivak</a></b><br/><br/>
+          <img src="https://i.imgur.com/Mfb8WkF.png" alt="me" width=250/><br/>
         </samp>
 </h3>
 
@@ -89,22 +93,33 @@ My diverse expertise in React, TypeScript, HTML, CSS, Java, Python, C, and C++ e
   <img src="https://skillicons.dev/icons?i=linux" alt="os"/>
 </p>
 
-## Top Open Source -
+## Favorite projects I worked on
 [![Wordle](https://github-readme-stats.vercel.app/api/pin/?username=ronensiv&repo=wordle&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ronensiv/wordle)
 [![KNN_SOCKET](https://github-readme-stats.vercel.app/api/pin/?username=ronensiv&repo=KNN_SOCKET&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ronensiv/KNN_SOCKET)
 [![Arknoid](https://github-readme-stats.vercel.app/api/pin/?username=ronensiv&repo=Arknoid&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ronensiv/Arknoid)
 [![Path-Finder](https://github-readme-stats.vercel.app/api/pin/?username=ronensiv&repo=Path-Finder&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ronensiv/Path-Finder)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ronen-sivak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronen-sivak" height="30" width="40" /></a>
-<a href="https://fb.com/ronensibak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ronensibak" height="30" width="40" /></a>
-<a href="https://instagram.com/ronensivak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronensivak" height="30" width="40" /></a>
+  <a href="https://github.com/ronensiv?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+<br/>
+<hr/>
+<br/>
+<!-- Stats  -->
+<p align="center">
+  <a href="https://github.com/ronensiv">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronensiv&theme=radical&border=7F3FBF&background=0D1117" alt="ronensiv's GitHub streak"/>
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ronensiv">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronensiv&theme=radical" alt="ronensiv's GitHub Contribution"/>
+  </a>
+</p>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronensiv&show_icons=true&locale=en&layout=compact&theme=radical" alt="ronensiv"  width="50%"/></p>
-
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ronensiv&theme=radical&show_icons=true&count_private=true" alt="ronensiv"  width="50%"/></p>
-
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RonenSiv&theme=radical&type=png" alt="ronensiv" width="50%"/></p>
+<a> 
+    <a href="https://github.com/ronensiv"><img alt="ronensiv's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ronensiv&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/ronensiv"><img alt="ronensiv's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ronensiv&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
