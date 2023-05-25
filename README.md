@@ -36,9 +36,6 @@ My diverse expertise in React, TypeScript, HTML, CSS, Java, Python, C, and C++ e
 <a href="https://instagram.com/ronensivak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronensivak" height="30" width="40" /></a>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronensiv&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Ronen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ronensivk)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronensiv&show_icons=true&locale=en&layout=compact&theme=radical" alt="ronensiv"  width="50%"/></p>
