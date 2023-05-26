@@ -43,7 +43,7 @@
 <p>
  <img align="right" width="250" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" alt="Coding gif" />
   
-✌️ &emsp; I take great joy in programming and sharing knowledge<br/><br/>
+✌️ &emsp; I take great joy in programming and sharing knowledge.<br/><br/>
 ❤️ &emsp; I love to code and constantly expanding my skills by learning new skills.<br/><br/>
 🍔 &emsp; I hold a special passion for hamburgers.<br/><br/>
   📧 &emsp; Reach out to me at any time via <b>ronensivak@gmail.com</b>
